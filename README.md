@@ -1,16 +1,6 @@
-<h1 style="text-align:center;">
-  <span style="display:inline-block; animation: slide 3s infinite alternate;">
-    Leetcode Solutions Repository
-  </span>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=90&pause=300&color=FF0000&width=4000&height=200&lines=Leetcode+Solutions+Repository" alt="Leetcode Solutions Repository" />
 </h1>
-
-<style>
-@keyframes slide {
-  0% { transform: translateX(-20px); color: #ff5555; }
-  50% { transform: translateX(20px); color: #55ff55; }
-  100% { transform: translateX(-20px); color: #5555ff; }
-}
-</style>
 
 ---
 
