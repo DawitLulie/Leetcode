@@ -1,4 +1,3 @@
-
 <h1 style="text-align:center;">
   <span style="display:inline-block; animation: slide 3s infinite alternate;">
     Leetcode Solutions Repository
@@ -12,6 +11,8 @@
   100% { transform: translateX(-20px); color: #5555ff; }
 }
 </style>
+
+---
 
 This repository contains my **Leetcode problem solutions** in multiple programming languages, organized by problem number.  
 Each problem folder contains a `solution` file and a `README.md` with description, examples, and approach.
