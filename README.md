@@ -22,14 +22,19 @@ Each problem folder contains a `solution` file and a `README.md` with descriptio
 
 ---
 
-## Languages Used
+## 🛠️ Languages I Use in LeetCode
 
-- Python  
-- C++  
-- Java  
-- JavaScript  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+</p>
+
+<p align="center">My programming toolbox for solving LeetCode challenges</p>
 
 ---
+
 
 ## How to Use
 
