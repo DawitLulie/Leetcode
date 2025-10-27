@@ -36,3 +36,12 @@ Each problem folder contains a `solution` file and a `README.md` with descriptio
 1. Clone the repository:
 ```bash
 git clone https://github.com/DawitLulie/Leetcode.git
+
+
+
+## 🖥️ LeetCode Repository Language Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawitLulie&layout=compact&repo=Leetcode&theme=tokyo-night" alt="Language Usage Graph" />
+</p>
+
