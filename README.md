@@ -38,20 +38,3 @@ Each problem folder contains a `solution` file and a `README.md` with descriptio
 git clone https://github.com/DawitLulie/Leetcode.git
 
 ```
-## 📉 My LeetCode Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DawitLulie&theme=tokyo-night&bg_color=0f0f0f&color=00ff99&line=ff4d6d&point=ffffff&area=true&hide_border=true" alt="LeetCode Solution Contribution Graph" />
-</p>
-
-## 🖥️ Language Usage in LeetCode Repo
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawitLulie&repo=Leetcode&layout=compact&theme=tokyo-night" alt="LeetCode Repo Language Stats" />
-</p>
-
-## Wisdom for Future Engineers
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Wisdom Quote" />
-</p>
