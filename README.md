@@ -24,7 +24,7 @@ Each problem folder contains a `solution` file and a `README.md` with descriptio
 
 ##  Languages I Used for Solutions in LeetCode
 
-<p align="center">
+<p align = "center">
   <img src="https://img.shields.io/badge/Python-ffdd57?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python Badge" />
   <img src="https://img.shields.io/badge/C++-57aaff?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++ Badge" />
   <img src="https://img.shields.io/badge/Java-ff6f57?style=for-the-badge&logo=java&logoColor=007396" alt="Java Badge" />
