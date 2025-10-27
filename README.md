@@ -35,4 +35,4 @@ Each problem folder contains a `solution` file and a `README.md` with descriptio
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/Leetcode.git
+git clone https://github.com/DawitLulie/Leetcode.git
