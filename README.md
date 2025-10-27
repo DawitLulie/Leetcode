@@ -22,18 +22,19 @@ Each problem folder contains a `solution` file and a `README.md` with descriptio
 
 ---
 
-## 🛠️ Languages I Use in LeetCode
+##  Languages I Used for Solutions in LeetCode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/Python-ffdd57?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/C++-57aaff?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++ Badge" />
+  <img src="https://img.shields.io/badge/Java-ff6f57?style=for-the-badge&logo=java&logoColor=007396" alt="Java Badge" />
+  <img src="https://img.shields.io/badge/JavaScript-ffff57?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge" />
 </p>
 
 <p align="center">My programming toolbox for solving LeetCode challenges</p>
 
 ---
+
 
 
 ## How to Use
